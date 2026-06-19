@@ -132,7 +132,7 @@ An interactive dashboard was built with the following components:
 - Subscription Status, Gender, Category, Shipping Type
 
 ### Dashboard Preview
-
+<img width="861" height="488" alt="image" src="https://github.com/user-attachments/assets/34e51422-065d-4975-b7a4-f90a68a0e98b" />
 
 
 ---
